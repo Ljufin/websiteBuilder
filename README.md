@@ -1,0 +1,1 @@
+This script automates the process of converting from a raw Zim html export to a usable website on a remote host.
